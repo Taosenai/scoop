@@ -1,13 +1,8 @@
 {
-    "description": "NVIDIA graphics card overclocking tool",
-    "version": "1.9.7.8",
-    "url": "http://us4-dl.techpowerup.com/files/VHqFEyM0Z6eC4EvvBcWR6g/1580777020/NVIDIA_Inspector_1.9.7.8.zip",
-    "hash": "3A553047D5E9C75F107A351B10A89E66480AD051924FD079C89CD00CADCE00C0",
-    "bin": "nvidiaInspector.exe",
-    "shortcuts": [
-        [
-            "nvidiaInspector.exe",
-            "NVIDIA Inspector"
-        ]
-    ]
+  "description": "NVIDIA graphics card overclocking tool",
+  "version": "1.9.8.1",
+  "url": "https://us5-dl.techpowerup.com/files/hfLNPAUtFq6wKWxiwT3HMg/1613261198/NVIDIA_Inspector_1.9.8.1_Beta.zip",
+  "hash": "AB445E6B31FD656890DEC2225C5961CC1D9367B016DF665D25CB801D5A58016A",
+  "bin": "nvidiaInspector.exe",
+  "shortcuts": [["nvidiaInspector.exe", "NVIDIA Inspector"]]
 }
